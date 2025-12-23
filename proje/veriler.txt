@@ -1,0 +1,22 @@
+
+============================
+Yurt Otomasyon Sistemi Kayitlari
+============================
+
+--- YENI KAYIT ---
+Ad: Ußur
+Soyad: îzmen
+Dogum Yili: 2006
+TC Kimlik No: 11111111111
+Kayit Durumu: Basarili
+
+============================
+Yurt Otomasyon Sistemi Kayitlari
+============================
+
+--- YENI KAYIT ---
+Ad: Guncel
+Soyad: Sarçman
+Dogum Yili: 1987
+TC Kimlik No: 22222222222
+Kayit Durumu: Basarili

@@ -1,0 +1,10 @@
+
+--- IZIN TALEBI ---
+Ad: ugur
+Soyad: ozmen
+Dogum Yili: 2006
+Yas: 22
+Izin Tarihleri:
+ 1. Gun: 24/12/2025
+Izin Nedeni: ev
+Kalan Izin Hakki: 44
